@@ -10,6 +10,7 @@ import { search as zhSearch } from './zh'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/my-blog/",
   lastUpdated: true,
   cleanUrls: true,
   ignoreDeadLinks: true,
