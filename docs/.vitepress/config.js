@@ -1,4 +1,5 @@
 export default {
+  base: "/my-blog/",
   title: "测试title",
   description: "blog",
   themeConfig: {
